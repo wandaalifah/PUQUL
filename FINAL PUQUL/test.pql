@@ -1,0 +1,9 @@
+CETAK ("HELLO DUNIA !!!!")
+
+VAR A = 0
+VAR B = 2
+VAR C = 9
+
+VAR Z = B * C
+
+CETAK (Z)
